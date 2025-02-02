@@ -1,0 +1,15 @@
+[
+	{
+	  "restaurant_id": "12345",
+	  "name": "Best Sushi",
+	  "cuisine": "Japanese",
+	  "city": "Toronto"
+	},
+	{
+	  "restaurant_id": "67890",
+	  "name": "Great Pasta",
+	  "cuisine": "Italian",
+	  "city": "New York"
+	}
+  ]
+  
